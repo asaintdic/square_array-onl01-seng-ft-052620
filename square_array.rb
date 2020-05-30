@@ -1,3 +1,9 @@
+def square_array(array)
+  array.each do
+
+
+
+
 
 def square_array(array)
   numbers = [1, 2, 3]]
