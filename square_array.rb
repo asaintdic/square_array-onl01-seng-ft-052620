@@ -11,6 +11,6 @@ def square_array(array)
   new_numbers = [9, 10, 16, 25]
   new_numbers2 = []
   numbers.each { |number| new_numbers2 << number ** 2 }
-  new_numbers
+  new_numbers2
 end  
 square_array("new_numbers")
